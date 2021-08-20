@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123715196312",
+    "firebase_url": "https://viitvisitorapp-default-rtdb.firebaseio.com",
+    "project_id": "viitvisitorapp",
+    "storage_bucket": "viitvisitorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123715196312:android:95bf3c3950d434685bc7ed",
+        "android_client_info": {
+          "package_name": "com.example.clgproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123715196312-jbfhuhtoknstk60i25b18mfso6fiuukm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf3rHbmtp-01f_t9PeAFJkHvHAAoRJkqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123715196312-jbfhuhtoknstk60i25b18mfso6fiuukm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
