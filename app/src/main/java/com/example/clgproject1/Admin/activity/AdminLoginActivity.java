@@ -87,7 +87,7 @@ public class AdminLoginActivity extends AppCompatActivity {
              } /*else if (!adminemail.matches("atul.kulkarni@viit.ac.in")  ){
                  AdminEmail.setError("Invalid Email");
                  AdminPassword.setFocusable(true);
-             } */else if (!adminemail.matches("atul.kulkarni@viit.ac.in")){
+             } */else if (!adminemail.matches("viitvisitorapp@gmail.com")){
                AdminEmail.setError("Invalid Email");
                AdminPassword.setFocusable(true);
            }

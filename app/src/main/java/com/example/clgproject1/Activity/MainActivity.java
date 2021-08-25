@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
                     else if ( user != null ) {
                         String uid = user.getUid();
-                        if (uid.matches("2ce1HTmrUzemVG7uEDV1gxQDMgG2")) {
+                        if (uid.matches("LRG3NGDGhkU3FrByVuNrjHRhlOL2")) {
                             Intent Homeintent = new Intent(MainActivity.this, AdminMainActivity.class);
                             Homeintent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                             startActivity(Homeintent);
